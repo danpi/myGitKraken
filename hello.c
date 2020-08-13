@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-##inclasdaasude
-=======
-##incluaadasde
->>>>>>> master
+##inclasdude
+
+modify this file
